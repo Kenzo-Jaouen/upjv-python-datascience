@@ -1,6 +1,6 @@
 # Python & Data Science — UPJV Amiens
 
-**Étudiant·e :** Kenzo Jaouen
+**Étudiant :** Kenzo Jaouen
 **Formation :** M1 Économie
 **Année :** 2026-2027
 
